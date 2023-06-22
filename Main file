@@ -1,6 +1,11 @@
 #resume json
+import logging
+import json
 
-{
+import azure.functions as func
+
+
+data={
   "basics": {
     "name": "Abia Javed",
     "label": "AI student",
