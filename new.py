@@ -18,12 +18,16 @@ data={
       "countryCode": "PAK",
       "region": "Punjab"
     },
+    
+    
     "profiles": [{
       "network": "Twitter",
       "username": "Abia",
       "url": "https://twitter.com/abia"
     }]
   },
+  
+  
   "work": [{
     "name": "Company",
     "position": "CEO",
@@ -35,6 +39,8 @@ data={
       "Started the company"
     ]
   }],
+  
+  
   "education": [{
     "institution": "FAST NUCES",
     "position": "Student",
