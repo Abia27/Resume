@@ -21,9 +21,9 @@ data={
     
     
     "profiles": [{
-      "network": "Twitter",
-      "username": "Abia",
-      "url": "https://twitter.com/abia"
+      "network": "linkedin",
+      "username": "Abia Javed",
+      "url": "https://linkedin.com/abiajaved"
     }]
   },
   
